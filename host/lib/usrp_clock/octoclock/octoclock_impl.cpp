@@ -37,6 +37,7 @@
 #include <uhd/utils/msg.hpp>
 #include <uhd/utils/paths.hpp>
 #include <uhd/utils/static.hpp>
+#include <boost/bind.hpp>
 
 #include "octoclock_impl.hpp"
 #include "octoclock_uart.hpp"

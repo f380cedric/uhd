@@ -30,6 +30,7 @@
 #include <boost/assign/list_of.hpp>
 #include <boost/format.hpp>
 #include <boost/thread.hpp>
+#include <boost/bind.hpp>
 #include <boost/math/special_functions/round.hpp>
 #include <utility>
 

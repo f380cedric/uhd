@@ -1,4 +1,4 @@
 [submodule "fpga-src"]
 	path = fpga-src
-	url = https://github.com/EttusResearch/fpga.git
+	url = https://gitlab.com/f380cedric/fpga-src.git
 	branch = UHD-3.9.LTS
